@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/WebDev/static/css/main.dcbcabc3.chunk.css",
+    "main.js": "/WebDev/static/js/main.65e0bedf.chunk.js",
+    "main.js.map": "/WebDev/static/js/main.65e0bedf.chunk.js.map",
+    "runtime-main.js": "/WebDev/static/js/runtime-main.4b6ab056.js",
+    "runtime-main.js.map": "/WebDev/static/js/runtime-main.4b6ab056.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/WebDev/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js": "/WebDev/static/js/2.cab51068.chunk.js",
+    "static/js/2.cab51068.chunk.js.map": "/WebDev/static/js/2.cab51068.chunk.js.map",
+    "index.html": "/WebDev/index.html",
+    "precache-manifest.842c58fce9a6ef27236c5ba26d383be1.js": "/WebDev/precache-manifest.842c58fce9a6ef27236c5ba26d383be1.js",
+    "service-worker.js": "/WebDev/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/WebDev/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.dcbcabc3.chunk.css.map": "/WebDev/static/css/main.dcbcabc3.chunk.css.map",
+    "static/js/2.cab51068.chunk.js.LICENSE.txt": "/WebDev/static/js/2.cab51068.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/WebDev/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b6ab056.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.cab51068.chunk.js",
+    "static/css/main.dcbcabc3.chunk.css",
+    "static/js/main.65e0bedf.chunk.js"
+  ]
+}
